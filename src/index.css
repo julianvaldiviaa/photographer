@@ -1,0 +1,34 @@
+@import "tailwindcss";
+
+
+
+::-webkit-scrollbar{
+    display: none;
+}
+
+.gloock {
+  font-family: "Gloock", serif;
+}
+
+.google-sans {
+  font-family: "Google Sans", sans-serif;
+  font-optical-sizing: auto;
+}
+
+
+.roboto-flex{
+  font-family: "Roboto Flex", sans-serif;
+  font-optical-sizing: auto;
+  font-variation-settings:
+    "slnt" -10,
+    "wdth" 100,
+    "GRAD" 0,
+    "XOPQ" 96,
+    "XTRA" 468,
+    "YOPQ" 79,
+    "YTAS" 750,
+    "YTDE" -203,
+    "YTFI" 738,
+    "YTLC" 514,
+    "YTUC" 712;
+}
