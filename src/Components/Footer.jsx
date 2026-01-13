@@ -76,7 +76,7 @@ const Footer = () => {
                       position={isLaptop ? [2, 0.5, 0] : [0, 0, 0]} 
                       scale={isLaptop ? 15 : 10}
                     >
-                      {/* <Scene /> */}
+                      <Scene />
                     </group>
                   </Stage>
                 </Float>

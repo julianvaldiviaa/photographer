@@ -79,7 +79,7 @@ const HomeWSection = () => {
                   environment="city"
                   preset="rembrandt"
                 >
-                  {/* <group scale={0.5}><Scene /></group> */}
+                  <group scale={0.5}><Scene /></group>
                 </Stage>
               </Float>
               <ContactShadows
